@@ -43572,15 +43572,15 @@ Arr: Maurice Ravel &amp; Howard C.
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
@@ -43622,8 +43622,8 @@ Arr: Maurice Ravel &amp; Howard C.
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>39</pitch>
-              <tpc>11</tpc>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           </voice>
@@ -43665,8 +43665,8 @@ Arr: Maurice Ravel &amp; Howard C.
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>39</pitch>
-              <tpc>11</tpc>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           </voice>
@@ -43716,15 +43716,15 @@ Arr: Maurice Ravel &amp; Howard C.
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
@@ -43777,15 +43777,15 @@ Arr: Maurice Ravel &amp; Howard C.
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
+              <pitch>44</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>39</pitch>
-              <tpc>11</tpc>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           </voice>
@@ -43795,8 +43795,8 @@ Arr: Maurice Ravel &amp; Howard C.
           <Chord>
             <durationType>whole</durationType>
             <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
