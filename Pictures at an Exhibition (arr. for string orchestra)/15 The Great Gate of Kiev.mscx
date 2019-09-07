@@ -165,6 +165,32 @@
       <master>
         <val id="0">Zita1</val>
         <val id="1">NoEffect</val>
+        <val id="2">0.1</val>
+        <val id="3">440</val>
+        <val id="4">1</val>
+        <val id="5">1</val>
+        </master>
+      <Fluid>
+        <val id="0">Papelmedia SF2 GM 2007.SF2</val>
+        <val id="0">MuseScore_General.sf3</val>
+        </Fluid>
+      <Zerberus>
+        </Zerberus>
+      <Zita1>
+        <val id="0">0.25</val>
+        <val id="1">0.462756</val>
+        <val id="2">0.161809</val>
+        <val id="3">0.333333</val>
+        <val id="4">0.25</val>
+        <val id="5">0.335245</val>
+        <val id="6">0.5</val>
+        <val id="7">0.664755</val>
+        <val id="8">0.5</val>
+        <val id="9">0.33</val>
+        </Zita1>
+      <master>
+        <val id="0">Zita1</val>
+        <val id="1">NoEffect</val>
         <val id="2">0.0308061</val>
         <val id="3">440</val>
         <val id="4">1</val>
@@ -24616,11 +24642,46 @@ Arr: Maurice Ravel &amp; Howard C.
               </Note>
             </Chord>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <up>up</up>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Articulation>
+              <subtype>articTenutoAbove</subtype>
+              <anchor>3</anchor>
+              </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <small>1</small>
+              <play>0</play>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Articulation>
+              <subtype>articTenutoAbove</subtype>
+              <anchor>3</anchor>
+              </Articulation>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
               <small>1</small>
               <play>0</play>
               </Note>
@@ -24649,8 +24710,8 @@ Arr: Maurice Ravel &amp; Howard C.
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               <small>1</small>
               <play>0</play>
               </Note>
@@ -24658,8 +24719,8 @@ Arr: Maurice Ravel &amp; Howard C.
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               <small>1</small>
               <play>0</play>
               </Note>
@@ -24679,11 +24740,46 @@ Arr: Maurice Ravel &amp; Howard C.
               </Note>
             </Chord>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <up>up</up>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Articulation>
+              <subtype>articTenutoAbove</subtype>
+              <anchor>3</anchor>
+              </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <small>1</small>
+              <play>0</play>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Articulation>
+              <subtype>articTenutoAbove</subtype>
+              <anchor>3</anchor>
+              </Articulation>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
               <small>1</small>
               <play>0</play>
               </Note>
@@ -24712,8 +24808,8 @@ Arr: Maurice Ravel &amp; Howard C.
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               <small>1</small>
               <play>0</play>
               </Note>
@@ -24721,8 +24817,8 @@ Arr: Maurice Ravel &amp; Howard C.
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               <small>1</small>
               <play>0</play>
               </Note>
@@ -34784,11 +34880,46 @@ Arr: Maurice Ravel &amp; Howard C.
               </Note>
             </Chord>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <up>up</up>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Articulation>
+              <subtype>articTenutoAbove</subtype>
+              <anchor>3</anchor>
+              </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <small>1</small>
+              <play>0</play>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Articulation>
+              <subtype>articTenutoAbove</subtype>
+              <anchor>3</anchor>
+              </Articulation>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
               <small>1</small>
               <play>0</play>
               </Note>
@@ -34817,8 +34948,8 @@ Arr: Maurice Ravel &amp; Howard C.
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               <small>1</small>
               <play>0</play>
               </Note>
@@ -34826,8 +34957,8 @@ Arr: Maurice Ravel &amp; Howard C.
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               <small>1</small>
               <play>0</play>
               </Note>
@@ -34847,11 +34978,46 @@ Arr: Maurice Ravel &amp; Howard C.
               </Note>
             </Chord>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <up>up</up>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Articulation>
+              <subtype>articTenutoAbove</subtype>
+              <anchor>3</anchor>
+              </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <small>1</small>
+              <play>0</play>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Articulation>
+              <subtype>articTenutoAbove</subtype>
+              <anchor>3</anchor>
+              </Articulation>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
               <small>1</small>
               <play>0</play>
               </Note>
@@ -34880,8 +35046,8 @@ Arr: Maurice Ravel &amp; Howard C.
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               <small>1</small>
               <play>0</play>
               </Note>
@@ -34889,8 +35055,8 @@ Arr: Maurice Ravel &amp; Howard C.
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               <small>1</small>
               <play>0</play>
               </Note>
@@ -69468,11 +69634,44 @@ Arr: Maurice Ravel &amp; Howard C.
               </Note>
             </Chord>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <up>up</up>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Articulation>
+              <subtype>articTenutoAbove</subtype>
+              <anchor>3</anchor>
+              </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Articulation>
+              <subtype>articTenutoAbove</subtype>
+              <anchor>3</anchor>
+              </Articulation>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           </voice>
@@ -69495,15 +69694,15 @@ Arr: Maurice Ravel &amp; Howard C.
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
@@ -69519,11 +69718,44 @@ Arr: Maurice Ravel &amp; Howard C.
               </Note>
             </Chord>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <up>up</up>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Articulation>
+              <subtype>articTenutoAbove</subtype>
+              <anchor>3</anchor>
+              </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Articulation>
+              <subtype>articTenutoAbove</subtype>
+              <anchor>3</anchor>
+              </Articulation>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           </voice>
@@ -69546,15 +69778,15 @@ Arr: Maurice Ravel &amp; Howard C.
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
