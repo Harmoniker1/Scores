@@ -1,6 +1,6 @@
-# Scores
+﻿# Scores
 
-Musical scores made by [Howard C.](https://musescore.com/howard_c_), with MuseScore.
+Musical scores made by [Howard C.](https://musescore.com/howard-c), with MuseScore.
 
 ## Open with MuseScore
 
